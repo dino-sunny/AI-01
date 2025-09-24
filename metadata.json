@@ -1,0 +1,5 @@
+{
+  "name": "City Girl Dress Catalog",
+  "description": "A visually stunning web application to browse and manage a catalog of beautiful dresses. Users can navigate through different categories and, with admin access, can add, edit, or delete items from the collection.",
+  "requestFramePermissions": []
+}
